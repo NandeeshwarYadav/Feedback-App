@@ -1,0 +1,12 @@
+/* Write your CSS code here. */
+.list-item {
+  list-style-type: none;
+  padding-right: 80px;
+}
+.feedback-image {
+  width: 80px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
